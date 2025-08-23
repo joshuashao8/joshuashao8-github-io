@@ -3,10 +3,10 @@
 }
 
 body {
+
   background-color: #131720;
   font-family: sans-serif;
 }
-
 h3 {
   color: white;
 }
@@ -51,8 +51,8 @@ input {
 }
 
 .thumbnail {
-  height: 350px;
-  width: 300px;
+  height: 25%;
+  width: 30%;
   border-radius: 19px;
 }
 
@@ -63,7 +63,7 @@ input {
 }
 
 .card{
-  border-radius: 19px;
+  border-radius: 20%;
   padding: 15px;
   text-align: center;
   background-color: #151f30;
