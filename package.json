@@ -13,7 +13,9 @@
     "deploy": "npx gh-pages -d dist --repo https://github.com/joshuashao8/joshuashao8-github-io.git"
   },
   "dependencies": {
-    "@teachablemachine/pose": "^0.8.6",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/material": "^7.3.5",
     "@tensorflow/tfjs": "^4.22.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
