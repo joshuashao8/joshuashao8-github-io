@@ -3,5 +3,8 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   base: '/joshuashao8-github-io/',  // critical for GitHub Pages
-  plugins: [react()]
+  plugins: [react()],
+  server: {
+    port: 8000
+  }
 })
