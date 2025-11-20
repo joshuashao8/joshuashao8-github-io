@@ -1,0 +1,51 @@
+body {
+  background: #101010;
+  color: white;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.app-container {
+  padding: 20px;
+}
+
+.button-row button {
+  margin-right: 10px;
+  padding: 10px 15px;
+  background-color: #4a90e2;
+  border: none;
+  border-radius: 6px;
+  color: white;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+
+
+.button-row button:hover {
+  background-color: #357ABD;
+}
+
+h1:hover {
+  text-shadow: 3px 5px 5px white;
+}
+.alien-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 10px;
+}
+
+.alien-card {
+  background: #1b1b1b;
+  padding: 12px;
+  border-radius: 8px;
+  width: 180px;
+  border: 1px solid #333;
+}
+
+.message {
+  margin-top: 10px;
+  color: #ffeb3b;
+}
