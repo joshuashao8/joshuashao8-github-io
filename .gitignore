@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Expose the client build folder for GitHub Pages deployment
+!/dist
+!/dist/**
