@@ -1,4 +1,4 @@
-# Deployed live at 
+# Deployed live at:
 #### https://joshuashao8.github.io/joshuashao8-github-io/
 
 # How to run this on your own
